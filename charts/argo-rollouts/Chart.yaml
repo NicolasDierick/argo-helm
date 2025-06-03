@@ -19,4 +19,4 @@ annotations:
     url: https://argoproj.github.io/argo-helm/pgp_keys.asc
   artifacthub.io/changes: |
     - kind: fixed
-      description: argo-rollouts will re-deploy if changes are made to the argo-rollouts configmap.
+      description: Fix installation process with Helm 3.18
