@@ -17,4 +17,4 @@ annotations:
     url: https://argoproj.github.io/argo-helm/pgp_keys.asc
   artifacthub.io/changes: |
     - kind: fixed
-      description: Restart server when configMap is updated
+      description: Fix installation process with Helm 3.18
